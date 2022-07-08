@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'debug_toolbar',
 
     'homepage.apps.HomepageConfig',
+    'contact.apps.ContactConfig',
 ]
 
 MIDDLEWARE = [
